@@ -73,10 +73,12 @@
 		</dependency>
 	</dependencies>
 <distributionManagement>
-      <repository> 
+   <repositories>
+        <repository> 
 	  <id>nexus</id>
 	  <name>Test Release Nexus Repository</name>
           <url>http://52.90.1.177:9091/digieras/repository/test/</url>
-      <repository/>
-<distributionManagement/>
+	</repository>
+   </repositories>
+</distributionManagement>
 </project>
