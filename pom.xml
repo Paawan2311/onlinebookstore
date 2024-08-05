@@ -74,8 +74,8 @@
 	</dependencies>
 <distributionManagement>
       <repository> 
-	  <id> nexus</id>
+	  <id>nexus</id>
           <url>http://52.90.1.177:9091/digieras/repository/test1/</url>
       <repository/>
-<distributionManagement?>
+<distributionManagement/>
 </project>
