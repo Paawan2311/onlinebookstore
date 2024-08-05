@@ -72,13 +72,5 @@
 			<version>3.1.0</version>
 		</dependency>
 	</dependencies>
-        <distributionManagement>
-           <repositories>
-             <repository> 
-	       <id>nexus</id>
-	       <name>Test Release Nexus Repository</name>
-               <url>http://52.90.1.177:9091/digieras/repository/test/</url>
-	     </repository>
-         </repositories>
-         </distributionManagement>
+        
 </project>
